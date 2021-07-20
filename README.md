@@ -1,11 +1,8 @@
-# ElegooTutorial
-Elegoo tutorials
+# Elegoo Mega2560
 
-<a href="mailto:rmorenojr@live.com">Ricardo Moreno Jr.</a>
+Testing The Most Complete Starter Kit for the Mega2560 by **Elegoo**
 
-Modified and Bonus material for The Most Complete Starter Kit for the Arduino Uno by **Elegoo** YouTube Tutorials.
+This Project will be divided into Lesson folders that hold all the various modified sketches, bonus material, schematics, wiring diagrams and any support materials for the Elegoo Arduino Mega2560 Tutorial Series. 
 
-This Project will be divided into Lesson folders that hold all the various modified sketches, bonus material, schematics, wiring diagrams and any support materials for the Elegoo Arduino UNO Tutorial Series. 
 
-[YoutTube Arduino Video Series](https://www.youtube.com/playlist?list=PLMzVxVmsv2vnCy0GSZjXaMdBQKLbmHOZR)
 
